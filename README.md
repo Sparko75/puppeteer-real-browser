@@ -5,8 +5,8 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/zfcsoftware/puppeteer-real-browser">
-    <img src="https://github.com/zfcsoftware/puppeteer-real-browser/assets/123484092/cc8b5fb9-504a-4fd3-97f6-a51990bb4303" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Sparko75/puppeteer-real-browser">
+    <img src="https://github.com/Sparko75/puppeteer-real-browser/assets/123484092/cc8b5fb9-504a-4fd3-97f6-a51990bb4303" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Puppeteer Real Browser</h3>
@@ -156,7 +156,7 @@ You can use the Dockerfile file in the main directory to use this library with d
 To run a test, you can follow these steps
 
 ```bash
-git clone https://github.com/zfcsoftware/puppeteer-real-browser
+git clone https://github.com/Sparko75/puppeteer-real-browser
 ```
 
 ```bash
